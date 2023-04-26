@@ -1,3 +1,3 @@
 FROM devopsdockeruh/simple-web-service:alpine
 
-CMD server2
+CMD server
